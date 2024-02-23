@@ -1,0 +1,10 @@
+smooth scolling 
+attach loco scroll css (loco.css)
+attach locomotive scroll min js (https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js)
+some code from loco github for js (https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js)
+
+
+
+gsap
+    attach gsap 
+    (https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js)
